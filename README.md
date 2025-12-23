@@ -1,4 +1,4 @@
-# CIS (Cekak Information System)
+# MemberBase
 
 A comprehensive member management system for Persatuan Seni Silat Cekak Malaysia. The system allows admins to manage member records and reference data, while members can self-register and update their profiles securely.
 
